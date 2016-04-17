@@ -1,7 +1,6 @@
 {
-  "name": "test2",
-  "version": "0.0.0",
-  "private": true,
+  "name": "web_template",
+  "version": "0.0.1",
   "scripts": {
     "start": "nodemon -e jade,js --exec sh bin/execute.sh"
   },

@@ -1,12 +1,11 @@
 {
-  "name": "tiny-dancers",
-  "version": "1.0.0",
-  "homepage": "tinydancers.projectcorvette.us",
+  "name": "web_template",
+  "version": "0.0.1",
   "interactive": false,
   "authors": [
     "Esteban Leon"
   ],
-  "description": "Corvette registration-tools",
+  "description": "Web template",
   "moduleType": [
     "globals",
     "node"
